@@ -2,7 +2,7 @@
   "name": "tv-shows",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://injac92.github.io/tv_shows",
+  "homepage": "http://injac92.github.io/tv_shows",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "gh-pages": "^2.0.1",

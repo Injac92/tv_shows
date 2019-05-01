@@ -1,5 +1,33 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## To start the project:
+
+- npm install
+- npm start
+
+# Folder structure
+
+## About project
+
+Application is fetching data from "http://api.tvmaze.com/shows"
+and displays to users currently the most popular tv series
+
+Application has three main pages:
+
+- Home
+- Series
+- Favorites
+
+With additional Error page and Detail page for every serie which contains detailed information.
+
+Inplemented search input for searching tv series by their name.
+Button for saving favorite series by your own choice in the Local Storage.
+
+## Technology used
+
+- React
+- Bootstrap 4
+
 ## Available Scripts
 
 In the project directory, you can run:
