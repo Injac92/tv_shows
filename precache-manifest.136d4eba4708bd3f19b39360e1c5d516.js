@@ -12,7 +12,7 @@ self.__precacheManifest = [
     "url": "/tv_shows/static/js/runtime~main.4a17e285.js"
   },
   {
-    "revision": "2f3aaa8accd223cbe488",
+    "revision": "2b8332edf160d274b7e7",
     "url": "/tv_shows/static/js/main.08351756.chunk.js"
   },
   {
@@ -20,11 +20,11 @@ self.__precacheManifest = [
     "url": "/tv_shows/static/js/2.4ad2b293.chunk.js"
   },
   {
-    "revision": "2f3aaa8accd223cbe488",
-    "url": "/tv_shows/static/css/main.5f189281.chunk.css"
+    "revision": "2b8332edf160d274b7e7",
+    "url": "/tv_shows/static/css/main.f45d114a.chunk.css"
   },
   {
-    "revision": "8376bb9a64d6c284b4895df3ff2d1296",
+    "revision": "5a4520aded61482b16d552fbaf10e359",
     "url": "/tv_shows/index.html"
   }
 ];
