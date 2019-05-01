@@ -1,11 +1,11 @@
-import React, {Component} from "react";
+import React from "react";
 import TVShowCard from "./TVShowCard";
+
+
+import { CSSTransitionGroup } from 'react-transition-group'
 
 export default function TVShowList(props) {
  
-
-    
-    // render
     
         // renderujemo puno kartica o serijama
         // dovucemo podatke sa neta
@@ -14,14 +14,13 @@ export default function TVShowList(props) {
         const newArray = props.tvShows.map((element, index, array)=>{
             return <TVShowCard key={element.id}name={element.name} image={element.image.medium} id={element.id}/>
         })
-
-        // const testArray = [7,8,9];
-        // const newTestArray = testArray.map((element, index, array)=>{
-        //     // element = element+1;
-        //     console.log(element, index,array)
-        //     return element;
-        // })
        
-        return <div class="container-fluid" >{newArray}</div>
-    }
+        return <div className="container-fluid">
+         <CSSTransitionGroup
+          transitionName="example-enter-active"
+          transitionEnterTimeout={5000}
+          transitionLeaveTimeout={3000}>
+          {newArray}
+          </CSSTransitionGroup></div>
+}
 
