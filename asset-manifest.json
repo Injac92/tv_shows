@@ -1,14 +1,14 @@
 {
-  "main.css": "/tv_shows/static/css/main.f45d114a.chunk.css",
-  "main.js": "/tv_shows/static/js/main.08351756.chunk.js",
-  "main.js.map": "/tv_shows/static/js/main.08351756.chunk.js.map",
+  "main.css": "/tv_shows/static/css/main.49a92e95.chunk.css",
+  "main.js": "/tv_shows/static/js/main.193e481b.chunk.js",
+  "main.js.map": "/tv_shows/static/js/main.193e481b.chunk.js.map",
   "runtime~main.js": "/tv_shows/static/js/runtime~main.4a17e285.js",
   "runtime~main.js.map": "/tv_shows/static/js/runtime~main.4a17e285.js.map",
   "static/js/2.4ad2b293.chunk.js": "/tv_shows/static/js/2.4ad2b293.chunk.js",
   "static/js/2.4ad2b293.chunk.js.map": "/tv_shows/static/js/2.4ad2b293.chunk.js.map",
   "index.html": "/tv_shows/index.html",
-  "precache-manifest.136d4eba4708bd3f19b39360e1c5d516.js": "/tv_shows/precache-manifest.136d4eba4708bd3f19b39360e1c5d516.js",
+  "precache-manifest.61b0c510d5e16fddc00107cd973da1c4.js": "/tv_shows/precache-manifest.61b0c510d5e16fddc00107cd973da1c4.js",
   "service-worker.js": "/tv_shows/service-worker.js",
-  "static/css/main.f45d114a.chunk.css.map": "/tv_shows/static/css/main.f45d114a.chunk.css.map",
+  "static/css/main.49a92e95.chunk.css.map": "/tv_shows/static/css/main.49a92e95.chunk.css.map",
   "static/media/index.css": "/tv_shows/static/media/ops1.1377b8f5.jpg"
 }
